@@ -15,4 +15,5 @@
         "psr-4": {
             "NetBuilding\\Faker\\": "src/"
         }
+    }
 }
